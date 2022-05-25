@@ -18,6 +18,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Koulen&display=swap" rel="stylesheet">
 </head>
 <body>
+<div class="flower"></div>
 <haeader>
     <div class="left_bar">
         <i class="fa-solid fa-bars"></i>
@@ -40,20 +41,20 @@
     </div>
     <div class="times">
     <div class="clock_section1">
-        <div id="day" class="value">00</div>
-        <div class="lable1">Days</div>
+        <div id="month" class="value">00</div>
+        <div class="lable1">Month</div>
     </div>
     <div class="clock_section2">
-        <div id="Hour" class="value">00</div>
-        <div class="lable2">Hours</div>
+        <div id="day" class="value">00</div>
+        <div class="lable2">Days</div>
     </div>
     <div class="clock_section3">
-        <div id="minute" class="value">00</div>
-        <div class="lable3">minute</div>
+        <div id="Hour" class="value">00</div>
+        <div class="lable3">Hours</div>
     </div>
     <div class="clock_section4">
-        <div id="second" class="value">00</div>
-        <div class="lable4">second</div>
+        <div id="minute" class="value">00</div>
+        <div class="lable4">minute</div>
     </div>
     </div>
     </div>
@@ -83,7 +84,7 @@
             <li><button>10</button></li>
         </ul>
     </div>
-
 </icon>
 </body>
+<script src="main.js"></script>
 </html>
