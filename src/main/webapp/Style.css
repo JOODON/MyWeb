@@ -115,28 +115,3 @@ input:focus{
     border-radius: 40%;
     animation: flower 10s linear infinite;
 }
-@keyframes flower{
-    0%{
-        opacity: 1;
-        transform: translateY(1px);
-    }
-    20%{
-        opacity: 1;
-        transform: translate(-15px,30vh);
-    }
-
-    40%{
-        opacity: 1;
-        transform: translate(15px,70vh);
-    }
-
-    60%{
-        opacity: 1;
-        transform: translate(-15px,100vh);
-    }
-    100%{
-        opacity: 100;
-        transform: translateY(100vh);
-    }
-
-}

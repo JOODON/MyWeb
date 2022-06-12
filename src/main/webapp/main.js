@@ -14,6 +14,7 @@ function getClock(){
     h.innerText=hours;
     m.innerText=minutes;
 }
+
 setInterval(getClock,100);
 getClock()
 
