@@ -1,3 +1,4 @@
+//현재 시간 출력하는 프로그래밍 코드
 let d=document.querySelector("#day");
 let h=document.querySelector("#Hour");
 let m=document.querySelector("#minute");
