@@ -37,7 +37,7 @@
 </haeader>
 <div id="clock" class="card card-default">
     <div id="timehead">
-        <h1>TO DAYS</h1>
+        <h1>TO DAY</h1>
     </div>
     <div class="times">
     <div class="clock_section1">
